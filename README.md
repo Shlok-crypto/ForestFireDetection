@@ -28,7 +28,7 @@ To ensure the accuracy and reliability of the proposed plan for wildfire detecti
 
 ## Credits
 
-This project was developed by **Shlok, and Arnav**.
+This project was developed by **Shlok**.
 
 ## License
 
